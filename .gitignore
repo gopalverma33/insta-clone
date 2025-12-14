@@ -1,0 +1,11 @@
+# dependencies
+node_modules/
+
+# environment variables
+.env
+
+# next.js build files
+.next/
+
+# production build
+dist/
